@@ -4,7 +4,7 @@ BIG-IP as SAML SP Configuration
 
 This document describes the configuration steps for configuring an external IDP Connector using an IDP Connector template in Access Guided Configuration's SAML Service Provider workflow.
 
-#. Logon to BIG-IP using UI and click on Access → Guided Configuration
+#. Logon to BIG-IP using UI and click on Access -> Guided Configuration
 #. Select Federation category of use case configuration
 #. Choose SAML Service Provider for configuration BIG-IP as SAML Service Provider.
 #. Review Required Configuration and complete steps to configure before configuring the External IDP Connector.
